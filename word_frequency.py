@@ -70,4 +70,6 @@ def main():
     words, frequencies = calculate_frequencies(sentence)
     print_frequencies(words, frequencies)
     
+if __name__ == "__main__":
     main()
+
